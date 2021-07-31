@@ -1,2 +1,3 @@
 # UAS-AI
-klasisikasi suara
+Identifikasi Suara 
+penjelasan terdapat pada youtube mahasiswa
